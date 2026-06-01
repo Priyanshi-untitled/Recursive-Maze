@@ -273,28 +273,7 @@ Recursive-Maze/
 ├── maze_python.py
 ├── go.mod
 ├── README.md
-└── screenshots/
 ```
-
----
-
-## Screenshots
-
-### Main Menu
-
-![Main Menu](screenshots/menu.png)
-
-### Algorithm Race
-
-![Algorithm Race](screenshots/race.png)
-
-### Heatmap Visualization
-
-![Heatmap](screenshots/heatmap.png)
-
-### Fog of War Mode
-
-![Fog Mode](screenshots/fog.png)
 
 ---
 
